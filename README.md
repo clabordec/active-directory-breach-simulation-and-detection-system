@@ -4,14 +4,18 @@
 
 MyDFIR is a forward-thinking technology solutions provider specializing in delivering reliable, scalable, and customer-focused IT support services. Founded with the vision of bridging the gap between innovation and day-to-day IT operations, Mydrif empowers businesses to achieve operational excellence through efficient IT support, infrastructure management, and end-user solutions.
 
-[Insert the diagram]
-
 ---
 
 🎯 **Objectives**  
 - Install and configure Active Directory to manage resources such as user, computers and groups within the company
 - Create a splunk instance to ingest events from the Windows Server that has Active Directory and the target windows machine
 - Utilize Kali Linux to perform a brute force attack to see what kind of telemetry that generates, along with using Atomic Red Team as well
+
+---
+
+✨ **Company Diagram**  
+
+[Insert the diagram]
 
 ---
 
