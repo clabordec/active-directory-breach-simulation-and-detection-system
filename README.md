@@ -34,8 +34,8 @@ MyDFIR is a forward-thinking technology solutions provider specializing in deliv
 - `windows_server_2022/` → Organized steps on setting up Windows Server 2022, changing the computer name, etc.
 - `active_directory/` → Organized steps on installing Active Directory, creating and managing resources.
 - `Sysmon/` → Organized steps on installing sysmon and monitoring system activity.
-- `Splunk` → Organzied steps on installing splunk and quering for telemetry.
-- `Kali Linux` → Organized steps on installing Kali Linux and creating scripts to attack the target machine
+- `Splunk/` → Organzied steps on installing splunk and quering for telemetry.
+- `Kali Linux/` → Organized steps on installing Kali Linux and creating scripts to attack the target machine
 
 ---
 
