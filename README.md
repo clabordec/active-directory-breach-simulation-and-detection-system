@@ -1,8 +1,8 @@
-#  MyDFIR
+#  Active Directory Breach Simulation and Detection System
 
 📌 **Overview**  
 
-MyDFIR is a forward-thinking technology solutions provider specializing in delivering reliable, scalable, and customer-focused IT support services. Founded with the vision of bridging the gap between innovation and day-to-day IT operations, Mydrif empowers businesses to achieve operational excellence through efficient IT support, infrastructure management, and end-user solutions.
+The Active Directory Breach Simulation and Detection System is a comprehensive cybersecurity framework designed to help organizations strengthen their Active Directory (AD) environments against real-world threats. By simulating attacks and testing detection mechanisms, the system allows companies to proactively identify vulnerabilities, improve security controls, and enhance incident response strategies.
 
 ---
 
@@ -13,7 +13,7 @@ MyDFIR is a forward-thinking technology solutions provider specializing in deliv
 
 ---
 
-✨ **Company Diagram**  
+✨ **Diagram**  
 
 [Insert the diagram]
 
