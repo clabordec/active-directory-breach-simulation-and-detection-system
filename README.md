@@ -15,7 +15,8 @@ The Active Directory Breach Simulation and Detection System is a comprehensive c
 
 ✨ **Diagram**  
 
-<img width="698" height="745" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/15efeea9-970e-4b5a-95a7-b1b1b2a6a83a" />
+<img width="698" height="745" alt="Untitled Diagram drawio" src="file:///C:/Users/jimmy/Downloads/Untitled%20Diagram.drawio.svg" />
+
 
 ---
 
