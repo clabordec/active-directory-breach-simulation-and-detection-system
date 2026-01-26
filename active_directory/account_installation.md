@@ -1,3 +1,22 @@
+<h1>Installing and Configuring Active Directory</h1>
+This project outlines the installation and configuration of Active Directory.<br />
+
+
+<h2>Environments and Technologies Used</h2>
+
+- VMware Workstation Pro (Virtual Machines/Compute)
+
+<h2>Operating Systems Used </h2>
+
+- Windows Server 2022
+
+<h2>High-Level Deployment and Configuration Steps</h2>
+
+- Add the Active Directory Domain Services feature to the Server
+- Promote the server as the Domain Controller with the following domain name: `clabordec.com`
+
+<br>
+
 ## Installing and setting up Active Directory
 ### Within Server Manager, go to Manage >> Add Roles and Features
 <p>
@@ -150,4 +169,5 @@
 <img src="https://github.com/user-attachments/assets/fed75294-b6e8-4c8c-b997-9e6c71d95a49" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 
