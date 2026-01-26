@@ -19,8 +19,9 @@ The Active Directory Breach Simulation and Detection System is a comprehensive c
 
 ✨ **Operating Systems**  
 - Windows Server 2022  
-- Windows 10
-- Ubuntu 24.04
+- Windows 11
+- Kali Linux
+- Ubuntu 22.04
 
 ---
 
