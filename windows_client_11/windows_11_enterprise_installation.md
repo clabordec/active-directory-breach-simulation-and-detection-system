@@ -136,21 +136,21 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Select Windows 10 Pro, click Next
+### English should be the default language as it was set at the beginning of the download, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/bae4bf18-f6ca-425e-b989-933f00185935" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c07a73d2-1ed4-4312-b3eb-2f0b22fced09" />
 </p>
 <br />
 
-### Accept license terms, click Next
+### Set the keyboard method to US, click Next
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4b320e04-908d-4cb3-a702-a15e04fc7327" />
 </p>
 <br />
 
-### Install Windows only, click Next
+### Since this is a new installation, choose the "Install Windows 11" radio option
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1158f2a9-5d4a-49b0-b0d1-9072d215134f" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/372c4261-3119-47c7-9b11-4c521a5176ed" />
 </p>
 <br />
 
@@ -182,6 +182,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
