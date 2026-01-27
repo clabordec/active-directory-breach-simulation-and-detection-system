@@ -90,10 +90,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 
 ### Set the storage to 85 GB, the virtual disk will be stored into a single file for better performance
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c158c086-8c37-4e73-abb5-1348ce33ebf4" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/630f2f2a-a0b2-4438-be34-1a227e5574ab" />
 </p> 
 <br />
-
 
 ### Review the settings, then click Finished
 <p>
@@ -177,6 +176,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
