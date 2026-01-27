@@ -37,15 +37,15 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p> 
 <br />
 
-### Choose the second option to download either DVD, USB flash drive, or ISO
+### After confirming the language for the OS, download the ISO image
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0d8cb0c9-b120-41a0-8317-1fb7021b70e7" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9c028bba-5c3f-47b6-991e-17aacfde21b6" />
 </p>
 <br />
 
-### Leave the recommended options checked
+### Once the ISO file has downloaded completely, save the file to a destination
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8a291e69-4c03-4bb1-9121-0b2d28dd79f6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7cea3983-6c3f-43d4-a82d-db5f769a9cf4" />
 </p>
 <br />
 
@@ -185,6 +185,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
