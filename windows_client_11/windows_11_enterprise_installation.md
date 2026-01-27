@@ -61,9 +61,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p> 
 <br />
 
-### Choose Microsoft Windows, version Windows 10, click Next
+### Choose Microsoft Windows, version Windows 11 x64, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/61e53933-92a7-43d6-a58c-bebdd0259363" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b25e555c-62bc-42a4-936b-ebb06e1e5be1" />
 </p>
 <br />
 
@@ -173,6 +173,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
