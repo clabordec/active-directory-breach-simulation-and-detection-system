@@ -144,7 +144,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 
 ### Set the keyboard method to US, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4b320e04-908d-4cb3-a702-a15e04fc7327" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e2686883-b492-4d12-9fe4-4eb223ffc420" />
 </p>
 <br />
 
@@ -182,6 +182,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
