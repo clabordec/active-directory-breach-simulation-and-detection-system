@@ -43,21 +43,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Once the ISO file has downloaded completely, save the file to a destination
+### Once the ISO file has downloaded completely, choose a file path to store the file
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7cea3983-6c3f-43d4-a82d-db5f769a9cf4" />
-</p>
-<br />
-
-### Choose `ISO file` to get the VM image
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4d9eb245-e72d-4807-9522-1edc95641706" />
-</p>
-<br />
-
-### Choose a file path to store the ISO
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/76b90de7-7a62-4c89-9e09-38f8ceda05c2" />
 </p>
 <br />
 
@@ -185,6 +173,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
