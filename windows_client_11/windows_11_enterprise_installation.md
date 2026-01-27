@@ -106,9 +106,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Power on the VM
+### Set the Memory to 8 GB
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4491f3de-b4f0-4c62-b7fb-6adc731ac600" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6580eee9-ec00-43fd-9c5e-3f2d65dbf0ea" />
 </p>
 <br />
 
@@ -176,6 +176,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
