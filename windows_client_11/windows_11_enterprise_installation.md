@@ -178,9 +178,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Review the storage for the VM, once everything is verified, click Next
+### Install the operating system
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7a9ac8bc-970d-442a-8182-b63693b072f2" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/458554d5-e267-46d9-baba-b308823d411b" />
 </p>
 <br />
 
@@ -189,6 +189,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
