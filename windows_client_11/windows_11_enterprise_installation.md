@@ -84,19 +84,20 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5005d437-6be5-44b3-bacd-5bf366a092fc" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c6cfa942-3094-4a52-91f3-ef8dbe8de867" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/956a6d4d-c404-4e05-bc89-a5d9001c09fc" />
 </p>
 <br />
 
-### Edit VM settings
+### Set the storage to 85 GB, the virtual disk will be stored into a single file for better performance
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c158c086-8c37-4e73-abb5-1348ce33ebf4" />
 </p> 
 <br />
 
-### Allocate memory (8GB RAM)
+
+### Review the settings, then click Finished
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/fbc3930c-7d41-4bf7-a1ea-eab749e72884" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ef65c727-ee91-4dda-9e81-b61e73e12be0" />
 </p> 
 <br />
 
@@ -176,6 +177,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
