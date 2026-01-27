@@ -13,33 +13,27 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Install and set up Windows 11 Enterprise onto the VM
-- Enable the `Administrator` account
-- Set a secure password for the `Administrator` account
-- Delete the `User` account to avoid any user logging in with admin rights
 
 <br />
 
 <h1>Deployment and Configuration Steps</h1>
 
-## Installing and setting up Windows 10 Pro
-### Go to a search browser and type in `windows 10 bootable usb` and choose the highlighted link
+## Installing and setting up Windows 11 Enterprise
+### Go to a search browser and type in `download windows 11` and choose the highlighted link
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5d93fa76-394d-4eaa-b692-a45aa82d8a40" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/34ae62ce-3fde-4c41-8d22-16e475cbe24d" />
 </p>
 <br />
 
-### Scroll down to `Create Windows 10 Installation media`, click Download Now, then run the exe
+### Scroll down to `Download Windows 11 Disk Image (ISO) for x64 devices`, select `Windows 11 (multi-edition ISO fro x64 devices)` in the dropdown menu, then click Confirm
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e82a3657-fae2-474a-9765-b79a9adff549" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b03bd4d8-f2ac-46ca-ad5c-7756804b6aac" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/27c625d6-addd-450a-a60d-7b4eba39cdb7" />
 </p>
 <br />
 
-### Accept the license terms
+### After confirming the ISO image, select the language for the OS, then click Confirm
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4dcfd73e-a6fb-4ab3-be65-3e3334af34af" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/cfd0d851-86a3-4eb4-b222-665009a752ed" />
 </p> 
 <br />
 
@@ -191,6 +185,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
