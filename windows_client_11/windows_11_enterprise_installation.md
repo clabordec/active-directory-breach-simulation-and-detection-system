@@ -193,17 +193,26 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c3b5f1d9-b37a-4f47-bf39-887a072ee2d3" />
 </p>
+<br />
 
-### Once the installation is complete, select the region for the OS
+### Select the keyboard layout as US
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c3b5f1d9-b37a-4f47-bf39-887a072ee2d3" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b75d70d7-4f4b-4bcb-a4f1-2c3bd2fd4028" />
 </p>
+<br />
+
+### Skip the second keyboard layout feature as this is optional
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7637aa43-8948-4e8b-851b-659468292cd3" />
+</p>
+<br />
 
 ---
 
 <br />
 
 # End of Project
+
 
 
 
