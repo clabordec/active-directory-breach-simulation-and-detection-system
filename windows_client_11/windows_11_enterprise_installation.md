@@ -69,20 +69,23 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 
 ### Name the VM, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/cfc4c5f7-61c9-418e-9ff2-a122ab33e351" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32199238-065a-4322-a931-70354c46bcf7" />
 </p>
 <br />
 
-### Assign storage and select single file, click Next
+### Create a password to encrypt the VM, uncheck "Remember the password on this machine in Credential Manager"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3361662e-30d8-4509-bf3a-5d95e3c6fc65" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/80340be5-5478-4388-b3f4-ab6dffed503a" />
 </p> 
 <br />
 
-### Verify virtual hardware, click Finish
+### Once the following is unchecked, the "Remember Password not select" popup screen will display, select OK, then click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c9f9d75b-cf89-4b2d-8cbe-c884bed222eb" />
-</p> 
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5005d437-6be5-44b3-bacd-5bf366a092fc" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c6cfa942-3094-4a52-91f3-ef8dbe8de867" />
+</p>
 <br />
 
 ### Edit VM settings
@@ -173,6 +176,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
