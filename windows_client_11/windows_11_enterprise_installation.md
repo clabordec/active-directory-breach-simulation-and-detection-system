@@ -112,21 +112,27 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Select language as English, click Next
+### Implement the ISO file into the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/798f71a8-4340-4b59-9ec5-2d62600535bd" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/151062e3-aebc-4d69-8fd2-80e2aca4d509" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b964e4d6-1f44-44f9-a1cd-adf6dba81e44" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a3fbb913-588f-4b64-b539-0ae363974f1c" />
 </p>
 <br />
 
-### Click Install Now
+### After making the following changes, click OK
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7bb03028-56b7-47ef-a06d-360bec7b6f3e" />
-</p> 
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6ba40673-312f-45f8-9ae8-3156dfe28a8d" />
+</p>
 <br />
 
-### Product key not required
+### Power on the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7551a74c-31e5-4bb3-944b-d222929e1230" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/603efaa0-4557-4bae-83e3-41925a76b76d" />
 </p>
 <br />
 
@@ -176,6 +182,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
