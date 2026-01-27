@@ -154,15 +154,15 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Select storage driver, click Next
+### Select "I don't have a poduct key"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0dcc8e4b-f5ff-451b-b256-fe3f53fceea0" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/795b003d-78a4-4d65-9510-a771820171ea" />
 </p>
 <br />
 
-### Region United States, click Yes
+### Select "Windows 11 Pro N", this is to ensure the client machine can conect to the domain
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ef97c4ba-366f-444b-b922-7c9e08cd5547" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7ef3115f-8ebe-4d1f-9e5d-8a9e73c28167" />
 </p>
 <br />
 
@@ -182,6 +182,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
