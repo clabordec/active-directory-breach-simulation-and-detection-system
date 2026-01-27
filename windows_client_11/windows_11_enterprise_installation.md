@@ -187,11 +187,24 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
+
+## Setting up Windows 11
+### Once the installation is complete, select United States as the region for the OS
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c3b5f1d9-b37a-4f47-bf39-887a072ee2d3" />
+</p>
+
+### Once the installation is complete, select the region for the OS
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c3b5f1d9-b37a-4f47-bf39-887a072ee2d3" />
+</p>
+
 ---
 
 <br />
 
 # End of Project
+
 
 
 
