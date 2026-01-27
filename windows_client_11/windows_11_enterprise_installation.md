@@ -166,9 +166,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
-### Keyboard layout US, click Yes
+### Accept the license terms
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a203dd2b-cd06-4941-b043-0b360595e065" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/19f905a9-7831-4c32-8581-67ff872cfbd9" />
 </p>
 <br />
 
@@ -182,6 +182,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
