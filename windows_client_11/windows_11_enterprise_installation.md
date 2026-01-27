@@ -182,6 +182,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/458554d5-e267-46d9-baba-b308823d411b" />
 </p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d7e3552f-33bd-4770-941f-c57428bba9e2" />
+</p>
 <br />
 
 ---
@@ -189,6 +192,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
