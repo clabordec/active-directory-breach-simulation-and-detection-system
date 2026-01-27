@@ -101,9 +101,9 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p> 
 <br />
 
-### Insert ISO, click OK
+### Select the newly created VM and click "Edit virtual machine settings"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1644a7e9-9f79-4dc9-a730-931018152a30" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/fc6c4587-b11e-4fad-bd06-cc3e0943aa33" />
 </p>
 <br />
 
@@ -177,6 +177,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <br />
 
 # End of Project
+
 
 
 
