@@ -207,11 +207,22 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 </p>
 <br />
 
+### For this project, select "set up for personal use", then click Next
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2335d231-64d9-4c23-aa1b-b84840fd4317" />
+<br />
+
+### The following operating system has been successfully installed and configured
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/aa03d967-4f3d-4501-91e5-5d21347f0f1a" />
+<br />
+
 ---
 
 <br />
 
 # End of Project
+
 
 
 
