@@ -1,6 +1,6 @@
-<h1>Installing and setting up Windows 10 Pro in VMware Workstation Pro</h1>
+<h1>Installing and setting up Kali Linux in VMware Workstation Pro</h1>
 
-This project outlines the installation and set up of Windows10 Pro.<br />
+This project outlines the installation and set up of Kali Linux to play as the attacker machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -8,7 +8,7 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro
+- Ubuntu 22.04
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
@@ -191,4 +191,5 @@ This project outlines the installation and set up of Windows10 Pro.<br />
 <br />
 
 # End of Project
+
 
