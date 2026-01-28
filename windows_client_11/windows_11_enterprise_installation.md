@@ -211,6 +211,7 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2335d231-64d9-4c23-aa1b-b84840fd4317" />
 <br />
+<br />
 
 ### The following operating system has been successfully installed and configured
 <p>
@@ -218,30 +219,5 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 
 ---
 
-<br />
 
 # End of Project
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
