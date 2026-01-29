@@ -48,9 +48,15 @@ This project outlines the installation and set up of Kali Linux to play as the a
 </p>
 <br />
 
-### Move the folder to a different file path
+### During extraction, move the folder to a different path, then click Extract
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8a291e69-4c03-4bb1-9121-0b2d28dd79f6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/81842c89-5486-4bb5-a304-00aa18bf657c" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/797cdc85-56e0-4cbe-ab0d-5674e23e78b7" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67578976-7e29-4b87-bfc6-3877255fb650" />
 </p>
 <br />
 
@@ -81,6 +87,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
