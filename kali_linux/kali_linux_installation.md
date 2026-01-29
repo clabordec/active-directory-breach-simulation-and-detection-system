@@ -8,7 +8,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 <h2>Operating Systems Used </h2>
 
-- Ubuntu 22.04
+- Debian 64-bit
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
@@ -78,6 +78,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
