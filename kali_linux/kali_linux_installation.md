@@ -19,10 +19,10 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 <h1>Deployment and Configuration Steps</h1>
 
-## Installing and setting up Windows 10 Pro
-### Go to a search browser and type in `windows 10 bootable usb` and choose the highlighted link
+## Installing the pre-built VM for Kali Linux
+### Go to a search browser and type in `download kali linux` and choose the highlighted link
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5d93fa76-394d-4eaa-b692-a45aa82d8a40" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8487a1f7-c9ba-467f-9cdb-f29c28d5cfb1" />
 </p>
 <br />
 
@@ -189,6 +189,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
