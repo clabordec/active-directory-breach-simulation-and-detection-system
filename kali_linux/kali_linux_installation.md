@@ -26,12 +26,9 @@ This project outlines the installation and set up of Kali Linux to play as the a
 </p>
 <br />
 
-### Scroll down to `Create Windows 10 Installation media`, click Download Now, then run the exe
+### Select the Virtual Machines option
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e82a3657-fae2-474a-9765-b79a9adff549" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b03bd4d8-f2ac-46ca-ad5c-7756804b6aac" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/aea9b992-75ae-477e-b43f-5d58445d9015" />
 </p>
 <br />
 
@@ -189,6 +186,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
