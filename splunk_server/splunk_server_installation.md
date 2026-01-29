@@ -22,7 +22,7 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 <h1>Deployment and Configuration Steps</h1>
 
-## Downloading the Splunk Server
+## Installing and Setting up the Splunk Server
 ### Go to a search browser and type in `download kali linux` and choose the highlighted link
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8487a1f7-c9ba-467f-9cdb-f29c28d5cfb1" />
@@ -94,6 +94,7 @@ This project outlines the installation and set up of Splunk Server to injest dat
 <br />
 
 # End of Project
+
 
 
 
