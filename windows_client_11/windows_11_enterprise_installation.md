@@ -1,6 +1,6 @@
 <h1>Installing and setting up Windows 11 Enterprise in VMware Workstation Pro</h1>
 
-This project outlines the installation and set up of Windows 11 Enterprise.<br />
+This project outlines the installation and set up of Windows 11 Enterprise to play as the target machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -221,3 +221,4 @@ This project outlines the installation and set up of Windows 11 Enterprise.<br /
 
 
 # End of Project
+
