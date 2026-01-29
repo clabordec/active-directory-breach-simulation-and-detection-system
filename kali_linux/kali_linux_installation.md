@@ -12,7 +12,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Install the pre-built virtual machine for Kali Linux
+- Download the pre-built virtual machine for Kali Linux
 - Create a VM in VMware Workstation Pro then import the pre-built VM
 - Log into the VM with the following credentials: `kali/kali`
 
@@ -92,6 +92,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
