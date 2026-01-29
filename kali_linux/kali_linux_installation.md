@@ -74,18 +74,17 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 ### Power on the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/76b90de7-7a62-4c89-9e09-38f8ceda05c2" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1d79c51-0b29-4c0d-b339-93844dc58d97" />
 </p>
 <br />
 
-### Log into the VM
+### Enter the credentials, then hit "Enter" on the keyboard to log into the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/76b90de7-7a62-4c89-9e09-38f8ceda05c2" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1e555a31-7ca4-4916-b2eb-78512cf1a2d0" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d47e4623-54c1-4326-91d5-4eae751ab043" />
-</p> 
-<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b5839423-d2b8-419a-be93-f85df6aa3fa5" />
+</p>
 <br />
 
 ---
@@ -93,6 +92,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
