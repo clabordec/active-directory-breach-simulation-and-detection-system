@@ -58,11 +58,17 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67578976-7e29-4b87-bfc6-3877255fb650" />
 </p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/adda0881-09ff-476f-a645-1982a2e5c8fc" />
+</p>
 <br />
 
-### Double click the folder than double click on the file ending in ".vbox", this will automatically install the VM on the hypervisor (i.e WMware Workstation Pro)
+### Double click the folder than double click on the file ending in ".vmx", this will automatically install the VM on the hypervisor (i.e WMware Workstation Pro)
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4d9eb245-e72d-4807-9522-1edc95641706" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b65100ad-59df-42d8-be6b-c34a992d3476" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8bf7e1af-93b0-4bb5-bc62-efe0747916e5" />
 </p>
 <br />
 
@@ -87,6 +93,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
