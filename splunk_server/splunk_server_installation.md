@@ -1,6 +1,6 @@
-<h1>Installing and setting up Kali Linux in VMware Workstation Pro</h1>
+<h1>Installing and setting up Splunk Server in VMware Workstation Pro</h1>
 
-This project outlines the installation and set up of Kali Linux to play as the attacker machine.<br />
+This project outlines the installation and set up of Splunk Server to injest data, and run searches throughout the server.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -8,19 +8,21 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 <h2>Operating Systems Used </h2>
 
-- Debian 64-bit
+- Ubuntu 24.04
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Install the pre-built virtual machine for Kali Linux
-- Create a VM in VMware Workstation Pro then import the pre-built VM
-- Log into the VM with the following credentials: `kali/kali`
+- Go to the offical Ubuntu website
+- Go to the products tab and select Ubuntu Server
+- Download the latest Ubuntu Server, in this case Ubuntu 24.04.3
+- Configure the hardware settings in VMware
+- Install Splunk
 
 <br />
 
 <h1>Deployment and Configuration Steps</h1>
 
-## Installing the pre-built VM for Kali Linux
+## Downloading the Splunk Server
 ### Go to a search browser and type in `download kali linux` and choose the highlighted link
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8487a1f7-c9ba-467f-9cdb-f29c28d5cfb1" />
@@ -92,6 +94,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
