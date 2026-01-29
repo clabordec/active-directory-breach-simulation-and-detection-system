@@ -41,7 +41,10 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 ### After the download is complete, extract the zip folder
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0d8cb0c9-b120-41a0-8317-1fb7021b70e7" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
 </p>
 <br />
 
@@ -78,6 +81,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
