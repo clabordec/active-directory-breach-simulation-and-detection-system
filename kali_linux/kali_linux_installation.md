@@ -12,10 +12,8 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Install and set up Windows 10 Pro onto the VM
-- Enable the `Administrator` account
-- Set a secure password for the `Administrator` account
-- Delete the `User` account to avoid any user logging in with admin rights
+- Install the pre-built virtual machine for Kali Linux
+- Create a VM in VMWare Workstation Pro then import the pre-built VM
 
 <br />
 
@@ -191,5 +189,6 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
