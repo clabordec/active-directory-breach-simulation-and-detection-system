@@ -165,10 +165,23 @@ This project outlines the installation and set up of Splunk Server to injest dat
 </p>
 <br />
 
+### A proxy address is not needed for this VM, press done
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b23ec774-0bca-48f2-b865-cd7e84101e34" />
+</p>
+<br />
+
+### Press done
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6c826303-2ed0-4a11-9b28-93adbd4ef7dd" />
+</p>
+<br />
+
 
 ---
 
 
 # End of Project
+
 
 
