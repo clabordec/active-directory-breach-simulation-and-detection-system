@@ -128,7 +128,39 @@ This project outlines the installation and set up of Splunk Server to injest dat
 </p>
 <br />
 
+## Setting up the Splunk Server
+### Power on the VM
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d64b43f4-ccce-43d6-a24a-b5a8cd78b1a1" />
+</p>
+<br />
+
+### Install the Ubuntu Server
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e5b679fe-e368-488a-a64f-80f7991a0c2a" />
+</p>
+<br />
+
+### Select "English" as the language, press Enter
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5346ae1f-6b79-4835-bac0-ccd9081a0c0a" />
+</p>
+<br />
+
+### Set the layout and variant to "English", press Enter
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/09609c36-332a-4f13-8931-5e55bd69d11a" />
+</p>
+<br />
+
+### Set the layout and variant to "English", press Enter
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b334ffa4-aa5d-4dcd-a569-c503ffe2eb91" />
+</p>
+<br />
+
 ---
 
 
 # End of Project
+
