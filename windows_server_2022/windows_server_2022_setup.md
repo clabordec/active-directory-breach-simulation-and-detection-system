@@ -1,5 +1,5 @@
 <h1>Installing and setting up Windows Server 2022 in VMware Workstation Pro</h1>
-This project outlines the installation and set up of Windows Server 2016 along with the installation and management of Active Directory within VMware Workstation Pro 17.<br />
+This project outlines the installation and set up of Windows Server 2012 along with the installation and management of Active Directory within VMware Workstation Pro 17.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -12,9 +12,12 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Install and set up Windows Server 2022 onto the VM
-- Add Active Directory Domain Services to the Server
-- Promote the server as the Domain Controller
+- Download Windows Server 2022
+- Create a new VM
+- Set the OS to Windows and the Version Server 2022
+- Name the following VM: `CLABORDECDC`
+- Import the Windows Server 2022 file into the VM
+- Install Windows Server 2022
 
 <br>
 
