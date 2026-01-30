@@ -153,14 +153,22 @@ This project outlines the installation and set up of Splunk Server to injest dat
 </p>
 <br />
 
-### Set the layout and variant to "English", press Enter
+### Select the full installation of Ubuntu server, press Done
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b334ffa4-aa5d-4dcd-a569-c503ffe2eb91" />
 </p>
 <br />
 
+### Contiune without network, press done
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c2fc63b4-0dd7-4e55-babc-0192a9299437" />
+</p>
+<br />
+
+
 ---
 
 
 # End of Project
+
 
