@@ -15,8 +15,8 @@ This project outlines the installation and set up of Splunk Server to injest dat
 - Go to the offical Ubuntu website
 - Go to the products tab and select Ubuntu Server
 - Download the latest Ubuntu Server, in this case Ubuntu 24.04.3
-- Configure the hardware settings in VMware
-- Install Splunk
+- Create a VM
+- Install the downloaded Ubuntu Server onto the VM
 
 <br />
 
@@ -74,30 +74,61 @@ This project outlines the installation and set up of Splunk Server to injest dat
 </p>
 <br />
 
-### The Guest OS will be Linux and the version will be Ubuntu 64-bit
+### The Guest OS will be Linux and the version will be Ubuntu 64-bit, click Next
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dd89692b-8966-49e3-a8aa-c048ad0bab73" />
 </p>
 <br />
 
----
-
+### Name the following VM `Splunk`, then click Next
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b7131f0d-2c95-43d7-aa69-0b4557e476a9" />
+</p>
 <br />
 
+### Give the following VM 125 GB and store the virtual disk into one single file for better performance. click Next
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3a3dc709-737d-4faf-9d68-e373b9740736" />
+</p>
+<br />
+
+### Click Finish
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a683ff3a-b1a0-4448-8f60-40fdfe67ff6c" />
+</p>
+<br />
+
+### Edit the virtual machine settings
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1fa512c6-2974-481d-a2b9-c71bfcd0b91f" />
+</p>
+<br />
+
+### Set the RAM for the VM to 10 GB 
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b8617a64-8bb6-4476-970a-acb2145bb7c1" />
+</p>
+<br />
+
+### Insert the ISO file into the VM 
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/480f4bca-b767-413f-b9fc-e3c8ba90d747" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67dd060f-28b4-4a76-b48e-38c6d3afcdd7" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9d1548ab-a920-4004-acca-03cb96ed746c" />
+</p>
+<br />
+
+### Click OK to save the changes
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/16a92662-fe73-4d95-b380-de0c95e14411" />
+</p>
+<br />
+
+---
+
+
 # End of Project
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
