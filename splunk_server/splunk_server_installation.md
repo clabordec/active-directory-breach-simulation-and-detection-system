@@ -74,11 +74,18 @@ This project outlines the installation and set up of Splunk Server to injest dat
 </p>
 <br />
 
+### The Guest OS will be Linux and the version will be Ubuntu 64-bit
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dd89692b-8966-49e3-a8aa-c048ad0bab73" />
+</p>
+<br />
+
 ---
 
 <br />
 
 # End of Project
+
 
 
 
