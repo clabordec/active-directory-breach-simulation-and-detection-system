@@ -20,6 +20,8 @@ This project outlines the installation and set up of Splunk Server to injest dat
 - Create the following credentials to log into the server:
     - Username: clabordec
     - Password: jnvevfjekvejvn8328282932yvubib3f2
+- Run the following command to update and upgrade all of the repositories in the server:
+    - sudo apt-get update && sudo apt-get upgrade -y
 
 <br />
 
@@ -239,7 +241,18 @@ This project outlines the installation and set up of Splunk Server to injest dat
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
 <br />
 
+### Update and upgrade all of the repositories to their latest version
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+<br />
+
+### Once the following screen is displayed, press Enter
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+<br />
+
 ---
 
 
 # End of Project
+
