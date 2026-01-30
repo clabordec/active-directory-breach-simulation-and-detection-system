@@ -247,26 +247,22 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 ### Enter in the credentials
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8f4f0feb-e18a-4201-bfe2-9eb3a1fc34ac" />
 </p>
 <br />
 
 ### Update and upgrade all of the repositories to their latest version
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/40abe281-c583-470c-aefb-540d9ca74053" />
 </p>
 <br />
 
-### Once the following screen is displayed, press Enter
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
-</p>
-<br />
 
 ---
 
 
 # End of Project
+
 
 
 
