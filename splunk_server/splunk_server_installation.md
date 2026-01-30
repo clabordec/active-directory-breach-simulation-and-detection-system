@@ -23,69 +23,54 @@ This project outlines the installation and set up of Splunk Server to injest dat
 <h1>Deployment and Configuration Steps</h1>
 
 ## Installing and Setting up the Splunk Server
-### Go to a search browser and type in `download kali linux` and choose the highlighted link
+### Go to `Ubuntu.com`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8487a1f7-c9ba-467f-9cdb-f29c28d5cfb1" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/69b73ed4-9f15-47c0-878e-0f3baa3918d9" />
 </p>
 <br />
 
-### Select the Virtual Machines option
+### Go to the Products drop down menu, then click on Ubuntu Server
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/aea9b992-75ae-477e-b43f-5d58445d9015" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/279ea809-06f4-4093-ac1d-ec873d157f82" />
 </p>
 <br />
 
-### Select the VMware option
+### Click on "Download Ubuntu Server"
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/909e0172-624d-49a7-b42c-2712efa20195" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/76f77297-c2ed-4024-9afa-964ecf2e3609" />
 </p> 
 <br />
 
-### After the download is complete, extract the zip folder
+### Download the latest version of Ubuntu
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3451f249-b4e4-48f1-af3b-92807cc7f5cf" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
-</p>
-<br />
-
-### During extraction, move the folder to a different path, then click Extract
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/81842c89-5486-4bb5-a304-00aa18bf657c" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/797cdc85-56e0-4cbe-ab0d-5674e23e78b7" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67578976-7e29-4b87-bfc6-3877255fb650" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/adda0881-09ff-476f-a645-1982a2e5c8fc" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4dbfeab2-6751-46d3-9a59-e52602e747c7" />
 </p>
 <br />
 
-### Double click the folder than double click on the file ending in ".vmx", this will automatically install the VM on the hypervisor (i.e WMware Workstation Pro)
+### Move the file to a different location
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b65100ad-59df-42d8-be6b-c34a992d3476" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8bf7e1af-93b0-4bb5-bc62-efe0747916e5" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/47c03a1e-3cec-4e6a-892c-80dcf6000578" />
 </p>
 <br />
 
-### Power on the VM
+### Create a new VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1d79c51-0b29-4c0d-b339-93844dc58d97" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/69889c42-0a43-4f20-907b-738c3351ef41" />
 </p>
 <br />
 
-### Enter the credentials, then hit "Enter" on the keyboard to log into the VM
+### To create the VM faster and easier, choose the "Typical" radio option
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1e555a31-7ca4-4916-b2eb-78512cf1a2d0" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3cc8d027-ffeb-4ad0-9c45-46a19b85bffb" />
 </p>
+<br />
+
+### The OS will be installed after the VM is created, this is to aviod any issues with installing the OS, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b5839423-d2b8-419a-be93-f85df6aa3fa5" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/587c3c7f-ed8b-49c5-8f98-3acf24f930bf" />
 </p>
 <br />
 
@@ -94,6 +79,7 @@ This project outlines the installation and set up of Splunk Server to injest dat
 <br />
 
 # End of Project
+
 
 
 
