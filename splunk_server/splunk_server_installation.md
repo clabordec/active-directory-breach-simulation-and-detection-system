@@ -233,15 +233,15 @@ This project outlines the installation and set up of Splunk Server to injest dat
 </p>
 <br />
 
-### Once the OS has finished installing, arrow down to the Continue button, then press Enter
+### Once the OS has finished installing, arrow down to the reboot the server, then press Enter
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/52750707-55a6-4e0b-84cf-b5c6225a0a35" />
 </p>
 <br />
 
 ### A failed message for unmountiung the CDROM will appear, go ahead and press enter to continue to the login screen
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/22862889-02b9-40e1-8c16-d67e17f58465" />
 </p>
 <br />
 
@@ -267,5 +267,6 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 
 # End of Project
+
 
 
