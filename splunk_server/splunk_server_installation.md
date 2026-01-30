@@ -194,65 +194,78 @@ This project outlines the installation and set up of Splunk Server to injest dat
 ### Review the file system summary, press Enter if changes are correct
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8ecad618-188c-4973-910a-c4f5c03f110f" />
+</p>
 <br />
 
 ### Arrow down to the Contiune button and press Enter 
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c630079e-e12f-4d64-9287-7abbeb55347a" />
+</p>
 <br />
 
 ### Create the credentials for the splunk server, arrown down to the Done button then press Enter
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/24ddae53-d1c9-499f-99f0-c182ba86448e" />
+</p>
 <br />
 
 ### Ubuntu Pro is not needed for this VM, press Enter to continue
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/18a8987c-3418-4c85-95a7-a7d67dd7a43f" />
+</p>
 <br />
 
 ### Arrow down, then press Done to continue
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dd58046a-773e-41f2-8317-3abf71774d58" />
+</p>
 <br />
 
 ### Arrow down, then press Done to continue
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2edd53b7-db02-4544-81cd-5a0aa5ab365b" />
+</p>
 <br />
 
 ### The OS is now installing
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+</p>
 <br />
 
 ### Once the OS has finished installing, arrow down to the Continue button, then press Enter
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+</p>
 <br />
 
 ### A failed message for unmountiung the CDROM will appear, go ahead and press enter to continue to the login screen
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+</p>
 <br />
 
 ### Enter in the credentials
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+</p>
 <br />
 
 ### Update and upgrade all of the repositories to their latest version
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+</p>
 <br />
 
 ### Once the following screen is displayed, press Enter
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9752d909-9b90-41d1-a7f8-107bbd5b422e" />
+</p>
 <br />
 
 ---
 
 
 # End of Project
+
 
