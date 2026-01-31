@@ -30,54 +30,39 @@ This project outlines setting up the proper addressing for the splunk server.<br
 </p>
 <br />
 
-### Run the command `ip -c a` to see the current IP address in color
+### Run the following command to edit the file for the addressing to the server: `sudo vim /etc/netplan/50-cloud-init.yaml`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/aea9b992-75ae-477e-b43f-5d58445d9015" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/73c2081a-0e92-49be-b5a6-c098d59fd416" />
 </p>
 <br />
 
-### Select the VMware option
+### Once in the file set the IP address as the following: `192.168.10.10/24` the `/24` means a subnet mask of `255.255.255.0`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/909e0172-624d-49a7-b42c-2712efa20195" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7556ad98-1738-49ba-8a9b-e9651afd9d83" />
 </p> 
 <br />
 
-### After the download is complete, extract the zip folder
+### Enter in the IP address for Google in the DNS section
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/54754e43-5d27-4b46-b0a3-a45af0da63a2" />
 </p>
 <br />
 
-### During extraction, move the folder to a different path, then click Extract
+### Enter in the default gateway
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/81842c89-5486-4bb5-a304-00aa18bf657c" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/797cdc85-56e0-4cbe-ab0d-5674e23e78b7" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67578976-7e29-4b87-bfc6-3877255fb650" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/adda0881-09ff-476f-a645-1982a2e5c8fc" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d6f6ad17-a535-4627-bddd-8241dab9b50d" />
 </p>
 <br />
 
-### Double click the folder than double click on the file ending in ".vmx", this will automatically install the VM on the hypervisor (i.e WMware Workstation Pro)
+### Save the changes by holding the "Shift" key then double press the "Z" key, the following confirmation message will appear
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b65100ad-59df-42d8-be6b-c34a992d3476" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8bf7e1af-93b0-4bb5-bc62-efe0747916e5" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4a4ff1ce-bd96-4bf8-8945-6169e0cc970c" />
 </p>
 <br />
 
-### Power on the VM
+### Run the following command to apply the changes: `sudo netplan apply`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1d79c51-0b29-4c0d-b339-93844dc58d97" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4880fa72-fdf3-4ab6-8221-573a2a69e661" />
 </p>
 <br />
 
