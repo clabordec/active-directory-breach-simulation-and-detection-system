@@ -167,22 +167,38 @@ This project outlines the installation and set up of Windows Server 2012 along w
 </p>
 <br />
 
-### After inputting the new password, press Ctrl+Alt+Insert to unlock the Windows Start Screen within the VM
+### The operating system is now in the process of installing, based on computer specs, this can take from 5-30 minutes
 <p>
-<img src="https://github.com/user-attachments/assets/f8a8e5ad-710b-47b6-978f-fe4a9e39d4bb" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/51104caa-02f3-4c25-896c-3323b04019ab" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Enter the new password
+### After the installion has been completed, assign the password for the Windows Server OS, then click Finish
 <p>
-<img src="https://github.com/user-attachments/assets/ed45f5f3-75f0-45de-b840-9ece2dfd4d4a" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/59baaa82-08cf-4efc-a079-77385e81dce0" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Once logged in, Server Manager will be the first application that will open
+### Click on hold keys CTRL + ALT + INSERT to enter the login screen for the VM
 <p>
-<img src="https://github.com/user-attachments/assets/8c57e57d-62a4-419d-a2b7-97162208121a" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/09936bc1-5f0f-40c2-9f84-4b6d477f6dc9" width="550" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/e2bb39a8-e7e6-4837-8a5b-c62811030aab" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Enter the password
+<p>
+<img src="https://github.com/user-attachments/assets/d8d647df-dcf0-4c8f-b492-fe977045c27f" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Server Manager will automatically display once logged in, indicating a successful installation for Windows Server 2022
+<p>
+<img src="https://github.com/user-attachments/assets/ba24e222-4480-4ffe-8c02-907f44aa0beb" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 ---
 
