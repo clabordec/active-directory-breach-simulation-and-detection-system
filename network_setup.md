@@ -32,7 +32,7 @@ This project outlines the configuration of the main network in VMware Worstation
 </p>
 <br />
 
-### Change the Subnte IP to the following, ensure that DHCP is enabled, then click Apply, then click OK
+### Select the VMnet 8 network adapter and change the Subnet IP to the following, ensure that DHCP is enabled, then click Apply, then click OK
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f7d50b52-4daf-419b-8520-b448754ea8f5" />
 </p>
