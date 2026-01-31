@@ -40,7 +40,7 @@ This project outlines the configuration of the main network in VMware Worstation
 
 ### Go to each VM and set the network adapter to the newly configured network adapter
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/547b9109-04d5-4841-9e41-81ae9a9b4176" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8971875a-41c0-4ebc-90f5-58890c56c0d6" />
 </p>
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
