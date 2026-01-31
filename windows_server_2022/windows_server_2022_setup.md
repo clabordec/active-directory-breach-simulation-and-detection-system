@@ -145,7 +145,7 @@ This project outlines the installation and set up of Windows Server 2012 along w
 ## Setting up Windows Server 2022
 ### Select the second option to get the GUI version of Windows Server, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/150f1f9f-6ed7-467b-adf2-4589a65d9e66" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0b3736c5-1e6b-4771-898a-afae88c85476" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
