@@ -1,6 +1,6 @@
-<h1>Installing and setting up Kali Linux in VMware Workstation Pro</h1>
+<h1>Setting up the static IP address for the splunk server</h1>
 
-This project outlines the installation and set up of Kali Linux to play as the attacker machine.<br />
+This project outlines setting up the proper addressing for the splunk server.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -8,13 +8,17 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 <h2>Operating Systems Used </h2>
 
-- Debian 64-bit
+- Ubuntu 24.04 64-bit
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Download the pre-built virtual machine for Kali Linux
-- Create a VM in VMware Workstation Pro then import the pre-built VM
-- Log into the VM with the following credentials: `kali/kali`
+- Log into the server
+- Check the ip address, should be set to `192.168.10.0`, the main network 
+- Change the address type to static
+- Assign a new IP address: `192.168.10.10`
+- Assign the DNS server IP address as the following: `8.8.8.8`
+- Assign the default gateway to the following: `192.168.10.1`
+- Save the changes
 
 <br />
 
