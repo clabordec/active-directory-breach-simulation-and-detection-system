@@ -110,51 +110,54 @@ This project outlines the installation and set up of Windows Server 2012 along w
 </p>
 <br />
 
-### Once the VM is powered on, click within the VM and rapidly press space bar or any key of your choosing until you see the following, then hit enter
+### Press OK to exit and save the changes
 <p>
-<img src="https://github.com/user-attachments/assets/673de096-0f20-48aa-9ece-1defee174ec9" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/04262cfe-a604-468b-bf20-41ad3002dae1" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Click Next
+### Power up the VM
 <p>
-<img src="https://github.com/user-attachments/assets/5a2f044b-79d7-4c62-a745-a7ad0d71afce" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ea01a7d2-9472-409a-9cca-153c5bddd68f" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Click Install now
+### Before getting the Windows Boot Manager screen, click inside of the VM and rapidly press the Enter key, this will direct you to the Windows Boot Manager screen, once this screen appear press Enter to continue the Windows setup
 <p>
-<img src="https://github.com/user-attachments/assets/e437c752-91c3-4064-8cc8-2583498a19c8" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/04aec41d-5641-42c5-a670-af2abfc84d69" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Choose the `Windows Server 2022 Standard Evaluation(Desktop Experience)` to have a Graphical User Interface(GUI) for the VM, then click Next
+### Leave the default language setup, then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/f0a85cc3-4c76-47a8-8e67-7bd8b1502449" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/147bc60d-2086-4156-a32a-1ac2e24af867" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Go through the Mircosoft Software License Terms, click the checkbox to agree then click Next
+### Install the Windows Server 2022 operating system
 <p>
-<img src="https://github.com/user-attachments/assets/29749b67-470e-4e6b-a355-8703bf4f7a69" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a34d543f-3502-4015-bcd5-d98833cc2682" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Since this is a brand new VM with a brand new OS, choose the custom option to create a new OS
+<br>
+
+## Setting up Windows Server 2022
+### Select the second option to get the GUI version of Windows Server, click Next
 <p>
 <img src="https://github.com/user-attachments/assets/150f1f9f-6ed7-467b-adf2-4589a65d9e66" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Ensure that the storage is correct, then click Next
+### Click on the checkbox to agree to the license terms, then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/2386fa37-4f0d-4dec-9da3-5e05c38b45ba" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b0defa29-630b-4078-a6ae-ad89a667cfec" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Depending on your network speed, the process of installing the OS can take between 5-30 minutes
+### Since this is a brand new OS, choose the custom install option, to install the operating system from scratch, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/6ff01d6e-89c6-46b6-9d01-6a1e63f24900" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/733ce0f4-5473-4079-8284-2702cf09ff86" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
