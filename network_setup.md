@@ -32,15 +32,15 @@ This project outlines the configuration of the main network in VMware Worstation
 </p>
 <br />
 
-### Select the VMware option
+### Change the Subnte IP to the following, ensure that DHCP is enabled, then click Apply, then click OK
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/909e0172-624d-49a7-b42c-2712efa20195" />
-</p> 
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f7d50b52-4daf-419b-8520-b448754ea8f5" />
+</p>
 <br />
 
-### After the download is complete, extract the zip folder
+### Go to each VM and set the network adapter to the newly configured network adapter
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/547b9109-04d5-4841-9e41-81ae9a9b4176" />
 </p>
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
