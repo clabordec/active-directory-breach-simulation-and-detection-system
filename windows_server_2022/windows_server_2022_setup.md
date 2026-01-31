@@ -98,12 +98,6 @@ This project outlines the installation and set up of Windows Server 2012 along w
 </p>
 <br />
 
-### Add the ISO file onto the VM
-<p>
-<img src="https://github.com/user-attachments/assets/ba3962db-f735-4b31-9852-d8fd28449bb8" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
 ### Import the Windows Server 2022 ISO file 
 <p>
 <img src="https://github.com/user-attachments/assets/0e3888f2-cd65-4ea5-bce1-25984e3fc528" width="550" alt="Disk Sanitization Steps"/>
