@@ -35,7 +35,7 @@ The Active Directory Breach Simulation and Detection System is a comprehensive c
 
 📂 **Repo Organization**  
 - `windows_server_2022/` → Organized steps on setting up Windows Server 2022, changing the computer name, etc.
-- `active_directory/` → Organized steps on installing Active Directory, creating and managing resources.
+    - `active_directory/` → Organized steps on installing Active Directory, creating and managing resources.
 - `windows_client_11/` → Organized steps on installing Windows 11 as the target machine.
 - `splunk_server/` → Organzied steps on installing splunk and quering for telemetry.
 - `kali_linux/` → Organized steps on installing Kali Linux and creating scripts to attack the target machine
