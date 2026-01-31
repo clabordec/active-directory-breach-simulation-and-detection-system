@@ -23,7 +23,7 @@ This project outlines the configuration of the main network in VMware Worstation
 ### Within Workstation Pro, go to Edit then select Virtual Network Editor
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2c6257a7-5a71-42c9-b486-644deda5abea" />
-</p> />
+</p>
 <br />
 
 ### Select "Change Settings"
