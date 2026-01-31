@@ -13,7 +13,6 @@ This project outlines setting up the proper addressing for the splunk server.<br
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Log into the server
-- Check the ip address, should be set to `192.168.10.0`, the main network 
 - Change the address type to static
 - Assign a new IP address: `192.168.10.10`
 - Assign the DNS server IP address as the following: `8.8.8.8`
@@ -24,14 +23,14 @@ This project outlines setting up the proper addressing for the splunk server.<br
 
 <h1>Deployment and Configuration Steps</h1>
 
-## Installing the pre-built VM for Kali Linux
-### Go to a search browser and type in `download kali linux` and choose the highlighted link
+## Setting up the IP addresses
+### Log into the splunk server
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8487a1f7-c9ba-467f-9cdb-f29c28d5cfb1" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a3af9c59-0bdf-46f6-aec6-8a6462c28396" />
 </p>
 <br />
 
-### Select the Virtual Machines option
+### Run the command `ip -c a` to see the current IP address in color
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/aea9b992-75ae-477e-b43f-5d58445d9015" />
 </p>
