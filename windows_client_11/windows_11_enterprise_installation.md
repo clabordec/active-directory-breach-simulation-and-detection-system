@@ -213,7 +213,7 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 <br />
 <br />
 
-### The following operating system has been successfully installed and configured
+### The following operating system will load based off of computer specs, then display the fully installed OS
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/aa03d967-4f3d-4501-91e5-5d21347f0f1a" />
 
@@ -221,4 +221,5 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 
 # End of Project
+
 
