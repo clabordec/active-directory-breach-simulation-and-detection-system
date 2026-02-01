@@ -79,18 +79,15 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 </p> 
 <br />
 
-### Once the following is unchecked, the "Remember Password not select" popup screen will display, select OK, then click Next
+### Set the storage to 90 GB, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5005d437-6be5-44b3-bacd-5bf366a092fc" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/956a6d4d-c404-4e05-bc89-a5d9001c09fc" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/bf55bff6-e5e1-42a8-b9a9-18caf98ecb83" />
 </p>
 <br />
 
-### Set the storage to 85 GB, the virtual disk will be stored into a single file for better performance
+### Review the VM summary, once everything is correct, click Finish
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/630f2f2a-a0b2-4438-be34-1a227e5574ab" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/667efb4d-86e7-46b8-b9b1-0b7921586c3c" />
 </p> 
 <br />
 
@@ -221,6 +218,7 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 
 # End of Project
+
 
 
 
