@@ -63,80 +63,51 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 ### Create a new VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/69889c42-0a43-4f20-907b-738c3351ef41" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6da66e3c-e945-4035-8f2d-550bb1ee901a" />
 </p>
 <br />
 
-### To create the VM faster and easier, choose the "Typical" radio option
+### Name the VM as the following
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3cc8d027-ffeb-4ad0-9c45-46a19b85bffb" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1c3e8e06-ef59-4b00-812a-8b4bb892fed5" />
 </p>
 <br />
 
-### The OS will be installed after the VM is created, this is to aviod any issues with installing the OS, click Next
+### Import the ISO file, skip the unattached installation for an easier installation process, then click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/587c3c7f-ed8b-49c5-8f98-3acf24f930bf" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/875a7f7a-d376-4f52-a162-a6b88da3f51e" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5001f68f-b4fa-4efa-83ff-df79aa04c24e" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c8d86458-6c75-40a0-a54c-b1f759619fcc" />
 </p>
 <br />
 
-### The Guest OS will be Linux and the version will be Ubuntu 64-bit, click Next
+### Set the VM to have 10 GB of memory and 2 CPU cores, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dd89692b-8966-49e3-a8aa-c048ad0bab73" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/117efa40-b963-4b7a-bc0f-6d26d1ef9c4e" />
 </p>
 <br />
 
-### Name the following VM `Splunk`, then click Next
+### Set the storage space to 125 GB, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b7131f0d-2c95-43d7-aa69-0b4557e476a9" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/046d2dc4-f78a-4bd3-95af-e1c82ca2a374" />
 </p>
 <br />
 
-### Give the following VM 125 GB and store the virtual disk into one single file for better performance. click Next
+### Review the VM summary, then click Finish
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3a3dc709-737d-4faf-9d68-e373b9740736" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0954dc08-e879-4031-aedd-b41d6df4f437" />
 </p>
 <br />
 
-### Click Finish
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a683ff3a-b1a0-4448-8f60-40fdfe67ff6c" />
-</p>
-<br />
-
-### Edit the virtual machine settings
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1fa512c6-2974-481d-a2b9-c71bfcd0b91f" />
-</p>
-<br />
-
-### Set the RAM for the VM to 10 GB 
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b8617a64-8bb6-4476-970a-acb2145bb7c1" />
-</p>
-<br />
-
-### Insert the ISO file into the VM 
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/480f4bca-b767-413f-b9fc-e3c8ba90d747" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67dd060f-28b4-4a76-b48e-38c6d3afcdd7" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9d1548ab-a920-4004-acca-03cb96ed746c" />
-</p>
-<br />
-
-### Click OK to save the changes
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/16a92662-fe73-4d95-b380-de0c95e14411" />
-</p>
-<br />
 
 ## Setting up the Splunk Server
 ### Power on the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d64b43f4-ccce-43d6-a24a-b5a8cd78b1a1" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/560dc6ef-f3e3-46b9-b49d-68df063f4b18" />
 </p>
 <br />
 
@@ -262,6 +233,7 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 
 # End of Project
+
 
 
 
