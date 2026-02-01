@@ -1,10 +1,10 @@
-<h1>Installing and setting up Kali Linux in VMware Workstation Pro</h1>
+<h1>Installing and setting up Kali Linux</h1>
 
 This project outlines the installation and set up of Kali Linux to play as the attacker machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- VMware Workstation Pro (Virtual Machines/Compute)
+- Oracle VirtualBox (Virtual Machines/Compute)
 
 <h2>Operating Systems Used </h2>
 
@@ -13,7 +13,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Download the pre-built virtual machine for Kali Linux
-- Create a VM in VMware Workstation Pro then import the pre-built VM
+- Create a VM in Oracle VirtualBox then import the pre-built VM
 - Log into the VM with the following credentials: `kali/kali`
 
 <br />
@@ -33,9 +33,9 @@ This project outlines the installation and set up of Kali Linux to play as the a
 </p>
 <br />
 
-### Select the VMware option
+### Select the VirtualBox option
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/909e0172-624d-49a7-b42c-2712efa20195" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2cbe6313-84a2-4b7f-886d-be2f7c824004" />
 </p> 
 <br />
 
@@ -92,6 +92,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
