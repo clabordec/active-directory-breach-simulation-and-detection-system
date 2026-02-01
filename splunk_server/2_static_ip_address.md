@@ -38,25 +38,25 @@ This project outlines setting up the proper addressing for the splunk server.<br
 
 ### Once in the file set the IP address as the following: `192.168.10.10/24` the `/24` means a subnet mask of `255.255.255.0`
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7556ad98-1738-49ba-8a9b-e9651afd9d83" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7f59aa6b-8ebf-4f9b-9a4b-3615266ffb1d" />
 </p> 
 <br />
 
 ### Enter in the IP address for Google in the DNS section
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/54754e43-5d27-4b46-b0a3-a45af0da63a2" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/79eb201f-8e73-44b2-b37c-2a705048a0b4" />
 </p>
 <br />
 
 ### Enter in the default gateway
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d6f6ad17-a535-4627-bddd-8241dab9b50d" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6d49c78d-e06c-459b-871b-3f3981dd69ca" />
 </p>
 <br />
 
 ### Save the changes by holding the "Shift" key then double press the "Z" key, the following confirmation message will appear
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4a4ff1ce-bd96-4bf8-8945-6169e0cc970c" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/01c09786-f213-47fb-b269-161ae1ef798a" />
 </p>
 <br />
 
@@ -66,12 +66,9 @@ This project outlines setting up the proper addressing for the splunk server.<br
 </p>
 <br />
 
-### Enter the credentials, then hit "Enter" on the keyboard to log into the VM
+### Run the following command to check the new ip address for the server: `ip -c a`, `-c` means to see the addresses in color
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1e555a31-7ca4-4916-b2eb-78512cf1a2d0" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b5839423-d2b8-419a-be93-f85df6aa3fa5" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0a4eca8d-8d6f-4624-b418-c24050274a99" />
 </p>
 <br />
 
