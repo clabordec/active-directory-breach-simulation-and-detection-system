@@ -62,25 +62,25 @@ This project outlines the installation and set up of Kali Linux to play as the a
 
 ### Double click the folder than double click on the file ending in ".vobx", this will automatically install the VM on the hypervisor
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b65100ad-59df-42d8-be6b-c34a992d3476" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8de525b7-3710-4ed1-b465-042307a35d0f" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8bf7e1af-93b0-4bb5-bc62-efe0747916e5" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/089091ec-d96b-45ee-8e4d-be6933dcf8ea" />
 </p>
 <br />
 
 ### Power on the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1d79c51-0b29-4c0d-b339-93844dc58d97" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/33d5172a-aaf7-41d2-9acf-b402fc0db6f3" />
 </p>
 <br />
 
 ### Enter the credentials, then hit "Enter" on the keyboard to log into the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1e555a31-7ca4-4916-b2eb-78512cf1a2d0" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8b7a0a03-a99a-4a0f-b34c-9544cc9db7f2" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b5839423-d2b8-419a-be93-f85df6aa3fa5" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ec49617d-6114-4a22-9ce7-eaeb7caa2186" />
 </p>
 <br />
 
@@ -89,6 +89,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
