@@ -58,7 +58,7 @@ This project outlines the installation and set up of Windows Server 2012 along w
 
 ### Import the Windwos Server 2022 ISO file, skip the unattended installation, then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/600e745f-0ce4-4dbc-abf7-bf99e481a92d" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/acd4c4ec-5d5e-4840-bf01-6758d96a2d09" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/22aa5114-5d0c-4802-ba6b-5767745c53f6" width="550" alt="Disk Sanitization Steps"/>
