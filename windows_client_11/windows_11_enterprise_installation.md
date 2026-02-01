@@ -51,47 +51,91 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 ### Create a new VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/23741a50-5e79-4c66-ab10-f368fe5e775b" />
-</p>
-<br />
-
-### Name the following VM
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d47e4623-54c1-4326-91d5-4eae751ab043" />
+</p> 
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0d2ec3e7-2ca7-4f87-840b-60c83d387221" />
-</p>
-<br />
-
-### Import the Windows 11 ISO file, skip the unattended installation, then click Next
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/95ea9f7a-dbcf-4b91-aa1d-e320cb78a317" />
+</p> 
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/977f0764-643c-4f4f-b52c-07c5b4fa83fc" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/382899c2-4824-4210-a7d2-af033bba341f" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0e80d7c8-37e2-4c3b-b01b-8754706e3d06" />
-</p>
-<br />
-
-### Set the RAM to 8 GB and 2 CPU cores, then click Next
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b5c870d-0cdf-47a7-84f8-0eece86c8c43" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f19d3eb7-d723-4926-a7a0-36e78843c533" />
 </p> 
 <br />
 
-### Set the storage to 90 GB, click Next
+### Choose Microsoft Windows, version Windows 11 x64, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/bf55bff6-e5e1-42a8-b9a9-18caf98ecb83" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b25e555c-62bc-42a4-936b-ebb06e1e5be1" />
 </p>
 <br />
 
-### Review the VM summary, once everything is correct, click Finish
+### Name the VM, click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/667efb4d-86e7-46b8-b9b1-0b7921586c3c" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32199238-065a-4322-a931-70354c46bcf7" />
+</p>
+<br />
+
+### Create a password to encrypt the VM, uncheck "Remember the password on this machine in Credential Manager"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/80340be5-5478-4388-b3f4-ab6dffed503a" />
 </p> 
 <br />
 
-## Setting up Windows 11
+### Once the following is unchecked, the "Remember Password not select" popup screen will display, select OK, then click Next
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5005d437-6be5-44b3-bacd-5bf366a092fc" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/956a6d4d-c404-4e05-bc89-a5d9001c09fc" />
+</p>
+<br />
+
+### Set the storage to 85 GB, the virtual disk will be stored into a single file for better performance
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/630f2f2a-a0b2-4438-be34-1a227e5574ab" />
+</p> 
+<br />
+
+### Review the settings, then click Finished
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ef65c727-ee91-4dda-9e81-b61e73e12be0" />
+</p> 
+<br />
+
+### Select the newly created VM and click "Edit virtual machine settings"
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/fc6c4587-b11e-4fad-bd06-cc3e0943aa33" />
+</p>
+<br />
+
+### Set the Memory to 8 GB
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6580eee9-ec00-43fd-9c5e-3f2d65dbf0ea" />
+</p>
+<br />
+
+### Implement the ISO file into the VM
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/151062e3-aebc-4d69-8fd2-80e2aca4d509" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b964e4d6-1f44-44f9-a1cd-adf6dba81e44" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a3fbb913-588f-4b64-b539-0ae363974f1c" />
+</p>
+<br />
+
+### After making the following changes, click OK
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6ba40673-312f-45f8-9ae8-3156dfe28a8d" />
+</p>
+<br />
+
+### Power on the VM
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/603efaa0-4557-4bae-83e3-41925a76b76d" />
+</p>
+<br />
+
 ### English should be the default language as it was set at the beginning of the download, click Next
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c07a73d2-1ed4-4312-b3eb-2f0b22fced09" />
@@ -177,8 +221,3 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 
 # End of Project
-
-
-
-
-
