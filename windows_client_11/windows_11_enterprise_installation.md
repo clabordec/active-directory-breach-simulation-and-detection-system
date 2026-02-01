@@ -91,48 +91,7 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 </p> 
 <br />
 
-### Review the settings, then click Finished
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ef65c727-ee91-4dda-9e81-b61e73e12be0" />
-</p> 
-<br />
-
-### Select the newly created VM and click "Edit virtual machine settings"
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/fc6c4587-b11e-4fad-bd06-cc3e0943aa33" />
-</p>
-<br />
-
-### Set the Memory to 8 GB
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6580eee9-ec00-43fd-9c5e-3f2d65dbf0ea" />
-</p>
-<br />
-
-### Implement the ISO file into the VM
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/151062e3-aebc-4d69-8fd2-80e2aca4d509" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b964e4d6-1f44-44f9-a1cd-adf6dba81e44" />
-</p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a3fbb913-588f-4b64-b539-0ae363974f1c" />
-</p>
-<br />
-
-### After making the following changes, click OK
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6ba40673-312f-45f8-9ae8-3156dfe28a8d" />
-</p>
-<br />
-
-### Power on the VM
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/603efaa0-4557-4bae-83e3-41925a76b76d" />
-</p>
-<br />
-
+## Setting up Windows 11
 ### English should be the default language as it was set at the beginning of the download, click Next
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c07a73d2-1ed4-4312-b3eb-2f0b22fced09" />
@@ -218,6 +177,7 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 
 # End of Project
+
 
 
 
