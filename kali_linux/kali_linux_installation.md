@@ -43,20 +43,17 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/bc8124cc-315d-41fa-a0f7-50c2c67d7823" />
 </p>
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
-</p>
 <br />
 
 ### During extraction, move the folder to a different path, then click Extract
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/81842c89-5486-4bb5-a304-00aa18bf657c" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ea110a62-f6a9-40ac-a486-b46b54edd552" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/797cdc85-56e0-4cbe-ab0d-5674e23e78b7" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/abfd8485-7535-4f15-a37d-98d10493a618" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67578976-7e29-4b87-bfc6-3877255fb650" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a4995c06-6cdb-40f2-84bb-067ce04444e9" />
 </p>
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/adda0881-09ff-476f-a645-1982a2e5c8fc" />
@@ -92,6 +89,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
