@@ -133,7 +133,7 @@ This project outlines the installation and set up of Windows Server 2012 along w
 
 ### Confirm that the drive is set to the amount of GB that was assigned at the creation of the VM, this is where the OS will be installed, click Next once the information has been confirmed
 <p>
-<img src="https://github.com/user-attachments/assets/9db71b6b-8639-4be1-9956-647b9dd18528" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/992b0ca8-fa16-4631-9241-ace5ef09e1b6" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
