@@ -4,7 +4,7 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 <h2>Environments and Technologies Used</h2>
 
-- VMware Workstation Pro (Virtual Machines/Compute)
+- Oracle VirtualBox (Virtual Machines/Compute)
 
 <h2>Operating Systems Used </h2>
 
@@ -233,6 +233,7 @@ This project outlines the installation and set up of Splunk Server to injest dat
 
 
 # End of Project
+
 
 
 
