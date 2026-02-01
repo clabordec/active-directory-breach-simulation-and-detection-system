@@ -51,31 +51,31 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 ### Create a new VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d47e4623-54c1-4326-91d5-4eae751ab043" />
-</p> 
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/95ea9f7a-dbcf-4b91-aa1d-e320cb78a317" />
-</p> 
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f19d3eb7-d723-4926-a7a0-36e78843c533" />
-</p> 
-<br />
-
-### Choose Microsoft Windows, version Windows 11 x64, click Next
-<p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b25e555c-62bc-42a4-936b-ebb06e1e5be1" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/23741a50-5e79-4c66-ab10-f368fe5e775b" />
 </p>
 <br />
 
-### Name the VM, click Next
+### Name the following VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32199238-065a-4322-a931-70354c46bcf7" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0d2ec3e7-2ca7-4f87-840b-60c83d387221" />
 </p>
 <br />
 
-### Create a password to encrypt the VM, uncheck "Remember the password on this machine in Credential Manager"
+### Import the Windows 11 ISO file, skip the unattended installation, then click Next
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/80340be5-5478-4388-b3f4-ab6dffed503a" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/977f0764-643c-4f4f-b52c-07c5b4fa83fc" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/382899c2-4824-4210-a7d2-af033bba341f" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0e80d7c8-37e2-4c3b-b01b-8754706e3d06" />
+</p>
+<br />
+
+### Set the RAM to 8 GB and 2 CPU cores, then click Next
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b5c870d-0cdf-47a7-84f8-0eece86c8c43" />
 </p> 
 <br />
 
@@ -221,5 +221,6 @@ This project outlines the installation and set up of Windows 11 Enterprise to pl
 
 
 # End of Project
+
 
 
