@@ -60,7 +60,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 </p>
 <br />
 
-### Double click the folder than double click on the file ending in ".vmx", this will automatically install the VM on the hypervisor (i.e WMware Workstation Pro)
+### Double click the folder than double click on the file ending in ".vobx", this will automatically install the VM on the hypervisor
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b65100ad-59df-42d8-be6b-c34a992d3476" />
 </p>
@@ -89,6 +89,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
+
 
 
 
