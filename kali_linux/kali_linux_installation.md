@@ -1,10 +1,10 @@
-<h1>Installing and setting up Kali Linux</h1>
+<h1>Installing and setting up Kali Linux in VMware Workstation Pro</h1>
 
 This project outlines the installation and set up of Kali Linux to play as the attacker machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Oracle VirtualBox (Virtual Machines/Compute)
+- VMware Workstation Pro (Virtual Machines/Compute)
 
 <h2>Operating Systems Used </h2>
 
@@ -13,7 +13,7 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Download the pre-built virtual machine for Kali Linux
-- Create a VM in Oracle VirtualBox then import the pre-built VM
+- Create a VM in VMware Workstation Pro then import the pre-built VM
 - Log into the VM with the following credentials: `kali/kali`
 
 <br />
@@ -33,54 +33,57 @@ This project outlines the installation and set up of Kali Linux to play as the a
 </p>
 <br />
 
-### Select the VirtualBox option
+### Select the VMware option
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2cbe6313-84a2-4b7f-886d-be2f7c824004" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/909e0172-624d-49a7-b42c-2712efa20195" />
 </p> 
 <br />
 
 ### After the download is complete, extract the zip folder
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/bc8124cc-315d-41fa-a0f7-50c2c67d7823" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
+</p>
+<p>
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/32421df6-bf75-460c-a4a0-cd563a790eb6" />
 </p>
 <br />
 
 ### During extraction, move the folder to a different path, then click Extract
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ea110a62-f6a9-40ac-a486-b46b54edd552" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/81842c89-5486-4bb5-a304-00aa18bf657c" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/abfd8485-7535-4f15-a37d-98d10493a618" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/797cdc85-56e0-4cbe-ab0d-5674e23e78b7" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a4995c06-6cdb-40f2-84bb-067ce04444e9" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/67578976-7e29-4b87-bfc6-3877255fb650" />
 </p>
 <p>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/adda0881-09ff-476f-a645-1982a2e5c8fc" />
 </p>
 <br />
 
-### Double click the folder than double click on the file ending in ".vobx", this will automatically install the VM on the hypervisor
+### Double click the folder than double click on the file ending in ".vmx", this will automatically install the VM on the hypervisor (i.e WMware Workstation Pro)
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8de525b7-3710-4ed1-b465-042307a35d0f" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b65100ad-59df-42d8-be6b-c34a992d3476" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/089091ec-d96b-45ee-8e4d-be6933dcf8ea" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8bf7e1af-93b0-4bb5-bc62-efe0747916e5" />
 </p>
 <br />
 
 ### Power on the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/33d5172a-aaf7-41d2-9acf-b402fc0db6f3" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d1d79c51-0b29-4c0d-b339-93844dc58d97" />
 </p>
 <br />
 
 ### Enter the credentials, then hit "Enter" on the keyboard to log into the VM
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8b7a0a03-a99a-4a0f-b34c-9544cc9db7f2" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1e555a31-7ca4-4916-b2eb-78512cf1a2d0" />
 </p>
 <p>
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ec49617d-6114-4a22-9ce7-eaeb7caa2186" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b5839423-d2b8-419a-be93-f85df6aa3fa5" />
 </p>
 <br />
 
@@ -89,21 +92,3 @@ This project outlines the installation and set up of Kali Linux to play as the a
 <br />
 
 # End of Project
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
