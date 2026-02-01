@@ -44,51 +44,81 @@ This project outlines the installation and set up of Windows Server 2012 along w
 </p>
 <br />
 
-### Create a new VM
+### Open VMware Workstation Pro and create a new VM
 <p>
-<img src="https://github.com/user-attachments/assets/5e92e0dc-b8c2-49dc-91d0-31c3af26a5c8" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/cc525cd1-4138-4a4b-84db-7d0f720788ba" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Name the following VM
+### Click Next
 <p>
-<img src="https://github.com/user-attachments/assets/956fcc61-3d51-4ce1-98a6-2835a1b4593d" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b99d9086-cb9f-47e6-b9d6-6677b41b1386" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Import the Windwos Server 2022 ISO file, skip the unattended installation, then click Next
+### To aviod any issue with the VM starting up successfully, choose `I will install the operating system later.` radio option, then click next
 <p>
-<img src="https://github.com/user-attachments/assets/acd4c4ec-5d5e-4840-bf01-6758d96a2d09" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/22aa5114-5d0c-4802-ba6b-5767745c53f6" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/c2e0556a-c9b8-4478-bd43-f95d7667ff66" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/600e745f-0ce4-4dbc-abf7-bf99e481a92d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Set the RAM to 12 GB and 2 CPU cores, click Next
+### Select `Microsoft Windows` as the OS, and `Windows Server 2022` as the version, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/dd5bec97-596c-44f5-ad3c-b7f435bfdde0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/defaccac-cc49-4621-996c-f5e958ee37c9" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Set the storage space to be 120 GB, click Next
+### Nme the VM as the following, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/48093f4a-edc1-4e18-8c12-6ff4aad1ea0d" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/defea001-4118-4936-ab6f-56af1d479e80" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Review the changes, then click Finish
+### Since this server will hold Active Directory and other important resources, give the VM 115 GB of storage, this virtual disk will be stored into a single file for better performance when running the VM, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/cc77eeb9-1c64-4ab8-81b3-0bbfeda9e1de" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/96982e9e-9308-4573-a041-f343f884bc4e" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Power on the VM
+### Review the specs of the VM, then click finish
 <p>
-<img src="https://github.com/user-attachments/assets/c2247860-3809-475a-ab86-7d2c47802221" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/cec2c399-fc08-43cc-906c-9a30b716928e" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Edit the VM settings
+<p>
+<img src="https://github.com/user-attachments/assets/614ae9fa-3efe-496d-95b4-21c400a111c3" width="550" height="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Set the Memory to 10 GB
+<p>
+<img src="https://github.com/user-attachments/assets/b85d4ac8-9055-4795-8687-71184bbaff06" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Import the Windows Server 2022 ISO file 
+<p>
+<img src="https://github.com/user-attachments/assets/0e3888f2-cd65-4ea5-bce1-25984e3fc528" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a688c8cc-9193-4427-a917-4354a7fd29d4" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/8fa21a74-3972-4aee-99fa-479fdc9ee515" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Press OK to exit and save the changes
+<p>
+<img src="https://github.com/user-attachments/assets/04262cfe-a604-468b-bf20-41ad3002dae1" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Power up the VM
+<p>
+<img src="https://github.com/user-attachments/assets/ea01a7d2-9472-409a-9cca-153c5bddd68f" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -133,7 +163,7 @@ This project outlines the installation and set up of Windows Server 2012 along w
 
 ### Confirm that the drive is set to the amount of GB that was assigned at the creation of the VM, this is where the OS will be installed, click Next once the information has been confirmed
 <p>
-<img src="https://github.com/user-attachments/assets/992b0ca8-fa16-4631-9241-ace5ef09e1b6" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9db71b6b-8639-4be1-9956-647b9dd18528" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
