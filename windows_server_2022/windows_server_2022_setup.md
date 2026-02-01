@@ -44,39 +44,45 @@ This project outlines the installation and set up of Windows Server 2012 along w
 </p>
 <br />
 
-### Open VMware Workstation Pro and create a new VM
+### Create a new VM
 <p>
-<img src="https://github.com/user-attachments/assets/cc525cd1-4138-4a4b-84db-7d0f720788ba" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5e92e0dc-b8c2-49dc-91d0-31c3af26a5c8" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Click Next
+### Name the following VM
 <p>
-<img src="https://github.com/user-attachments/assets/b99d9086-cb9f-47e6-b9d6-6677b41b1386" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/956fcc61-3d51-4ce1-98a6-2835a1b4593d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### To aviod any issue with the VM starting up successfully, choose `I will install the operating system later.` radio option, then click next
+### Import the Windwos Server 2022 ISO file, skip the unattended installation, then click Next
 <p>
 <img src="https://github.com/user-attachments/assets/600e745f-0ce4-4dbc-abf7-bf99e481a92d" width="550" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
-### Select `Microsoft Windows` as the OS, and `Windows Server 2022` as the version, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/defaccac-cc49-4621-996c-f5e958ee37c9" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/22aa5114-5d0c-4802-ba6b-5767745c53f6" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/c2e0556a-c9b8-4478-bd43-f95d7667ff66" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Nme the VM as the following, click Next
+### Set the RAM to 12 GB and 2 CPU cores, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/defea001-4118-4936-ab6f-56af1d479e80" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/dd5bec97-596c-44f5-ad3c-b7f435bfdde0" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-### Since this server will hold Active Directory and other important resources, give the VM 115 GB of storage, this virtual disk will be stored into a single file for better performance when running the VM, click Next
+### Set the storage space to be 120 GB, click Next
 <p>
-<img src="https://github.com/user-attachments/assets/96982e9e-9308-4573-a041-f343f884bc4e" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/48093f4a-edc1-4e18-8c12-6ff4aad1ea0d" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Review the changes, then click Finish
+<p>
+<img src="https://github.com/user-attachments/assets/cc77eeb9-1c64-4ab8-81b3-0bbfeda9e1de" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
